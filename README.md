@@ -1,4 +1,4 @@
 
 <div style="text-align: center;">
-  This text will be centered.
+  text.
 </div>
